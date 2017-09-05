@@ -15,10 +15,36 @@ h1{
 	color: white;
 	text-align: center;
 	color: Aquamarine;
+	font-family: Verdana;
 }
 
 
 
 p{
 	text-align: center;
+}
+
+.personal{
+	text-align: center;
+	color: white;
+	font-family: Verdana;
+	font-weight: 300;
+	font-size: 42px;
+}
+
+.copy{
+	text-align: right;
+}
+
+h3{
+	color: gray;
+	text-align: center;
+	font-family: Verdana;
+
+}
+h2{
+	color: white;
+	font-family: Verdana;
+	text-align: center;
+
 }
