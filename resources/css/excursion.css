@@ -10,6 +10,18 @@ h1{
 	font-size: 50px;
 
 }
+h3{
+	color: gray;
+	text-align: center;
+	font-family: Verdana;
+
+}
+h2{
+	color: white;
+	font-family: Verdana;
+	text-align: center;
+
+}
 
 #link{
 	color: white;
@@ -36,15 +48,3 @@ p{
 	text-align: right;
 }
 
-h3{
-	color: gray;
-	text-align: center;
-	font-family: Verdana;
-
-}
-h2{
-	color: white;
-	font-family: Verdana;
-	text-align: center;
-
-}
